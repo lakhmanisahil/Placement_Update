@@ -7,4 +7,5 @@ This repository is for placement stats of Sahil Lakhmani - IIT BHU.
   - Futures First: Fucked up- Speed Maths was damn hard.
   - Flipkart DE: Fucked up- Unable to do the DSA part and SQL part was easy, but was not able to solve.
   - Accenture Elite Engineer: SQL was damn easy, fucked up on the DSA part
-  
+  - Tiger Analytics: Apti and Reasoning done, SQL done and fucked up at DSA + Questions
+  - Delloite: CLeared round1 and round 2 fucked up, unavle to do the vibe coding.
