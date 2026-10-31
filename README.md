@@ -12,10 +12,10 @@ This repository is for placement stats of Sahil Lakhmani - IIT BHU.
 
 
 - Test Scheduled (Next):
-Paytm		01-11-2026(2PM-4PM)
-HiLabs	28-10-2026(3PM-4PM)	01-11-2026(4PM-6PM)
-Deutsche Bank	28-10-2026(7PM-8PM)	01-11-2026(6PM-7.30PM)
-CBA	26-10-2026(3PM-4PM)	01-11-2026(8PM-10PM)
-Nexus One		01-11-2026(10PM-12AM)
-EXL		02-11-2026(6AM-8AM)
-Mastercard 03-11-2026(TBA)
+    - Paytm:		01-11-2026(2PM-4PM)
+    - HiLabs:	28-10-2026(3PM-4PM)	01-11-2026(4PM-6PM)
+    - Deutsche Bank:	28-10-2026(7PM-8PM)	01-11-2026(6PM-7.30PM)
+    - CBA:	26-10-2026(3PM-4PM)	01-11-2026(8PM-10PM)
+    - Nexus One:		01-11-2026(10PM-12AM)
+    - EXL:		02-11-2026(6AM-8AM)
+    - Mastercard: 03-11-2026(TBA)
