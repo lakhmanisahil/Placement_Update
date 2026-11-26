@@ -14,7 +14,6 @@ This repository is for placement stats of Sahil Lakhmani - IIT BHU.
   - CBA:	Able to solve apti+sde some mcqs, but no coding question
   - EXL:	Went very well
    
-**Test Scheduled (Next)**:
   - LEK		03-11-2026(6PM-7PM)
   - Mastercard		03-11-2026(11PM-1AM)
   - Accordion	04-11-2026(3PM-4PM)	
@@ -23,4 +22,8 @@ This repository is for placement stats of Sahil Lakhmani - IIT BHU.
   -    >Tredence	05-11-2026(6PM-10PM)	05-11-2026(6PM-10PM)
   -  Nexus One:		RESCHEDULED
 
+
+
+**Test Scheduled (Next)**:
+**27/Nov/2026 - Give it your best shot there**
 ------>>>>>>>>>>>>>>> SKILD AI <<<<<<<<<<<<<<<<---------------------------
