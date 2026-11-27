@@ -24,8 +24,12 @@ This repository is for placement stats of Sahil Lakhmani - IIT BHU.
 
 
 **Test Scheduled (Next)**:
-**27/Nov/2026 - Give it your best shot there**
+**28/Nov/2026 - ML interview choose it if you want to give**
 
 
 
-Interview Schedule:=> Skild AI - Day 02 ..................................
+Interview Schedule:=> Skild AI - Day 01 ..................................
+Its your time Sahil Lakhmani--> this is for which you were working hard for these many years 💯 
+
+Improve your logical thinking -> improve your work -> improve your speaking skills -> go and create the impact.
+Improve your coding --> you should understand large codebases like byheart 👌
