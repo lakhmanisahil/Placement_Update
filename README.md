@@ -23,7 +23,9 @@ This repository is for placement stats of Sahil Lakhmani - IIT BHU.
   -  Nexus One:		RESCHEDULED
 
 
-
 **Test Scheduled (Next)**:
 **27/Nov/2026 - Give it your best shot there**
------->>>>>>>>>>>>>>> SKILD AI <<<<<<<<<<<<<<<<---------------------------
+
+
+
+Interview Schedule:=> Skild AI - Day 02 ..................................
